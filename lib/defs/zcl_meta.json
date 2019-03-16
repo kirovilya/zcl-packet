@@ -1577,6 +1577,16 @@
                 "dir":0
             }               
         },
+        "manuSpecificOsram": {
+            "resetStartupParams": {
+                "params":[],
+                "dir":0
+            },
+            "saveStartupParams": {
+                "params":[],
+                "dir":0
+            }
+        },
         "manuSpecificPhilips": {
             "hueNotification":{
                 "params":[
